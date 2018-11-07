@@ -9,3 +9,6 @@
 /myApp/myWebApiApp.Tests/obj/Debug
 /myApp/myWebApiApp/obj/Debug
 /myApp/myWebApiApp/bin
+/myApp/myWebApiApp/obj/Release
+/myApp/myWebApiApp/Properties/PublishProfiles
+/myApp/myWebApiApp.Tests/obj/Release
